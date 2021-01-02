@@ -1,0 +1,12 @@
+{
+  "name": "red-blue-news",
+  "displayName": "red-blue-news",
+  "expo": {
+    "name": "red-blue-news",
+    "slug": "red-blue-news",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
